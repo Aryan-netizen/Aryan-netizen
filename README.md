@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I'm currently working on web development and frontend projects.<br>🤝 I'm looking to collaborate on open-source projects, frontend development, and UI/UX design.<br>🏗️ I'm looking for help with advanced JavaScript, React.js, and backend development.<br>🌱 I'm currently learning React.js, Tailwind CSS, and improving my Python coding skills.<br>💬 Ask me about frontend development, CSS, and GitHub workflows.<br>⚡ Fun fact: I enjoy solving coding challenges and experimenting with new web technologies!
+🛠️ I'm currently working on web development and frontend projects.<br>🤝 I'm looking to collaborate on open-source projects, frontend development, and UI/UX design.<br>🏗️ I'm looking for help with advanced JavaScript, React.js, and backend development.<br>🌱 I'm currently learning React.js, Tailwind CSS, and improving my c++ coding skills.<br>💬 Ask me about frontend development, CSS, and GitHub workflows.<br>⚡ Fun fact: I enjoy solving coding challenges and experimenting with new web technologies!
 
 
 ## 🌐 Socials:
